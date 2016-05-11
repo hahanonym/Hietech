@@ -5,3 +5,9 @@
   
   * unsigned、ushort、uint16  signed、short、int16  int、int32、uint、uint32  float
   * 支持大小端模式设置
+  
+  
+
+### 2.DCS modbus协议的WCF接口返回结果码有哪些？
+  
+  * 1=成功,2=超时,3=执行发生错误,4=其他错误
